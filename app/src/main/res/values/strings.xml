@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseApp</string>
+
+    <string-array name="states">
+        <item>Maharashtra</item>
+        <item>Gujrat</item>
+        <item>Rajasthan</item>
+        <item>Assam</item>
+        <item>Manipur</item>
+        <item>Tamilnadu</item>
+        <item>Karnataka</item>
+        <item>JammuKashmir</item>
+        <item>UttarPradesh</item>
+    </string-array>
+</resources>
